@@ -1,0 +1,9 @@
+# node
+node_modules/
+
+# variaveis de ambiente
+.env
+
+/frontend/build
+
+.DS_Store
