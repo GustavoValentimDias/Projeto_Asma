@@ -21,7 +21,7 @@ const App = () => {
         </Route>
       </Switch>
       <footer className="text-center bg-dark text-muted p-3 mt-auto">
-        O código desse site está disponível no <a href="https://github.com/bmnascimento/projeto-asma">GitHub</a>
+        O código desse site está disponível no <a href="https://github.com/GustavoValentimDias/Projeto_Asma">GitHub</a>
       </footer>
     </Router>
   )
